@@ -38,7 +38,7 @@ div h2{
     font-family: Arial;
     font-size: 30px;
     position: absolute;
-    top: 200px;
+    top: 175px;
     left: 8.5%;
     background: darkorange;
     color: white;
@@ -115,5 +115,22 @@ div a .im3{
     position: absolute;
     top: 320px;
     left: 900px;
+    border-radius: 20%;
+}
+.a{
+    font-family: Arial;
+    font-size: 30px;
+    position: absolute;
+    top: 570px;
+    left: 8.5%;
+    background: darkorange;
+    color: white;
+    font-weight: bold;
+}
+iframe{
+    width: 30%;
+    position: absolute;
+    top: 670px;
+    left: 75px;
     border-radius: 20%;
 }
